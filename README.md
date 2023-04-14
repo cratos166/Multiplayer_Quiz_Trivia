@@ -12,9 +12,9 @@ NIFTY NILE presents the ultimate All-In-One student package.
 Education is one of the most important aspects of a student's life and the bridge to this immense castle is the ultimate need of the hour. 🌍
 The Project aims to help students across the country by providing them easy access to a wide range of features. 📰📊
 
-<img src="https://play-lh.googleusercontent.com/ZNy0anodnrLzItuyFPLVrfBtLC7PW7jjiY3PyUy3D9WN7vbfFJ_kD3jBO80Snq4iQA=w526-h296-rw" width="150px">   
-<img src="https://play-lh.googleusercontent.com/0TGJKxgjct_21-xEY8dOinChMvFtllGrqdWToNonGEMkGQ6zsnCJnLshLw0tLHSb5Jk=w526-h296-rw" width="150px">   
-<img src="https://play-lh.googleusercontent.com/vxNroenHbpVz_T1ajGkpIEDAMycReEx_TjVMJ7m_ni3beyxGB2xUYoFWm81Mn4-CcTRR=w526-h296-rw" width="150px">   
+<img src="https://play-lh.googleusercontent.com/ZNy0anodnrLzItuyFPLVrfBtLC7PW7jjiY3PyUy3D9WN7vbfFJ_kD3jBO80Snq4iQA=w526-h296-rw" width="150px">
+<img src="https://play-lh.googleusercontent.com/0TGJKxgjct_21-xEY8dOinChMvFtllGrqdWToNonGEMkGQ6zsnCJnLshLw0tLHSb5Jk=w526-h296-rw" width="150px">
+<img src="https://play-lh.googleusercontent.com/vxNroenHbpVz_T1ajGkpIEDAMycReEx_TjVMJ7m_ni3beyxGB2xUYoFWm81Mn4-CcTRR=w526-h296-rw" width="150px">
 <img src="https://play-lh.googleusercontent.com/aR-uMI2FbQawGhD065Xu0PewoChVaizK-DxCJOfXzmffYC16K_Ss0e69wyzXNQMnXcio=w526-h296-rw" width="150px">
 <img src="https://play-lh.googleusercontent.com/1QKx9-dajiJ6qWcGKpl3m09CfXsZ9GkrnVK0CUppPWLj91e9I9vvUYJtaO63c4QdhnU=w526-h296-rw" width="150px">
 <img src="https://play-lh.googleusercontent.com/qpr7v5dR-F_foNA20205QKFEpuNzq7GEOw1yPCeZ2v0DTLKEVMU24sUu_DZu7Locew=w526-h296-rw" width="150px">
