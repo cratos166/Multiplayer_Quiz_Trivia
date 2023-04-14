@@ -7,10 +7,6 @@
 
 Welcome! ❤
 
-NIFTY NILE presents the ultimate All-In-One student package.
-
-Education is one of the most important aspects of a student's life and the bridge to this immense castle is the ultimate need of the hour. 🌍
-The Project aims to help students across the country by providing them easy access to a wide range of features. 📰📊
 
 <img src="https://play-lh.googleusercontent.com/ZNy0anodnrLzItuyFPLVrfBtLC7PW7jjiY3PyUy3D9WN7vbfFJ_kD3jBO80Snq4iQA=w526-h296-rw" width="150px"><img src="https://play-lh.googleusercontent.com/0TGJKxgjct_21-xEY8dOinChMvFtllGrqdWToNonGEMkGQ6zsnCJnLshLw0tLHSb5Jk=w526-h296-rw" width="150px"><img src="https://play-lh.googleusercontent.com/vxNroenHbpVz_T1ajGkpIEDAMycReEx_TjVMJ7m_ni3beyxGB2xUYoFWm81Mn4-CcTRR=w526-h296-rw" width="150px"><img src="https://play-lh.googleusercontent.com/aR-uMI2FbQawGhD065Xu0PewoChVaizK-DxCJOfXzmffYC16K_Ss0e69wyzXNQMnXcio=w526-h296-rw" width="150px"><img src="https://play-lh.googleusercontent.com/1QKx9-dajiJ6qWcGKpl3m09CfXsZ9GkrnVK0CUppPWLj91e9I9vvUYJtaO63c4QdhnU=w526-h296-rw" width="150px"><img src="https://play-lh.googleusercontent.com/qpr7v5dR-F_foNA20205QKFEpuNzq7GEOw1yPCeZ2v0DTLKEVMU24sUu_DZu7Locew=w526-h296-rw" width="150px"><img src="https://play-lh.googleusercontent.com/AzhkTyad7-ZIH1hm9WFI2GBam0c3fkQoK0M2jJ8YAY3cbaC_BWTHyabmHN5zmsyzLQ=w526-h296-rw" width="150px"><img src="https://play-lh.googleusercontent.com/SNukclj8qwqbCt26X9iIIo3IZlyNT_Ww8TMb6Kl5mVd_XugeVy8fDQz8Q8CsdiKjrw=w526-h296-rw" width="150px">
 
@@ -97,5 +93,5 @@ Question hints:
 Multiplayer Quiz is available in the most spoken languages. If you want the game to be translated into your native language, you’re welcome to share your suggestion with us at niftynile@gmail.com
 
 ### ***PUBLISHED SAMPLE***
-Experience the power of Paper Wind on your own!
+Experience the power of Multiplayer Quiz on your own!
 [Download now](https://play.google.com/store/apps/details?id=com.nbird.multiplayerquiztrivia) at Google Play Store
